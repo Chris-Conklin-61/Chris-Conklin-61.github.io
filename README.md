@@ -1,8 +1,4 @@
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="http://admin:123456@kyserike.mynetgear.com:500/mjpeg/stream.cgi?chn=0" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+[Watch the Bees](http://admin:123456@kyserike.mynetgear.com:500/mjpeg/stream.cgi?chn=0)
 
 ## Welcome to GitHub Pages
 
