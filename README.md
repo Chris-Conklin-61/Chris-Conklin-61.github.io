@@ -1,3 +1,9 @@
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="http://admin:123456@kyserike.mynetgear.com:500/mjpeg/stream.cgi?chn=0" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Chris-Conklin-61/Chris-Conklin-61.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
