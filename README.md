@@ -1,5 +1,16 @@
 [Watch the Bees](http://admin:123456@kyserike.mynetgear.com:500/mjpeg/stream.cgi?chn=0)
 
+# Project Overview
+
+Hone Bees play an essential role in our ecosystem. Our food depends on their pollination activity. A world without pollinators would be devastating for food production. A couple of years ago I decided to do my part to help the declining honey bee population by creating my own apiary. I also wanted to use my electrical and computer engineering skills to aid in understand my bee colonies.
+
+Inspired by some work that a colluge had previously done and a couple of web resources dealing with monitoring activity within the hive using a variety of electrical sensors, I’ve used some of my electrical engineering and computer knowledge to come up withmy own Hive Monitoring system to better understand conditions within the hive without having to be physically at the apiary. 
+
+The system monitors and records the weight of the hive, the ambient temperature and humidity at the hive location, and the
+temperature and humidity within the hive. The readings are capture every minute and sent to “The Cloud” via a wifi connection
+for display and analysis. Recently added to the system is a wifi camera. The complete Hive Monitoring system is also solar
+powered so the battery health and solar production is also monitored.
+
 ## What Are my Expectations ?
 
 My hope is to be able to gather data from my honey bee hives and use it as a tool to better understand the health and activity
