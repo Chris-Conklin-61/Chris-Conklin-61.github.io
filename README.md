@@ -2,9 +2,9 @@
 
 # Project Overview
 
-Hone Bees play an essential role in our ecosystem. Our food depends on their pollination activity. A world without pollinators would be devastating for food production. A couple of years ago I decided to do my part to help the declining honey bee population by creating my own apiary. I also wanted to use my electrical and computer engineering skills to aid in understand my bee colonies.
+Honey Bees play an essential role in our ecosystem. Our food depends on their pollination activity. A world without pollinators would be devastating for food production. A couple of years ago I decided to do my part to help the declining honey bee population by creating my own apiary. I also wanted to use my electrical and computer engineering skills to aid in understand my bee colonies.
 
-Inspired by some work that a colluge had previously done and a couple of web resources dealing with monitoring activity within the hive using a variety of electrical sensors, I’ve used some of my electrical engineering and computer knowledge to come up withmy own Hive Monitoring system to better understand conditions within the hive without having to be physically at the apiary. 
+Inspired by some work that a colleague had previously done and a couple of web resources dealing with monitoring activity within the hive using a variety of electrical sensors, I’ve used some of my electrical engineering and computer knowledge to come up with my own Hive Monitoring system to better understand conditions within the hive without having to be physically at the apiary. 
 
 The system monitors and records the weight of the hive, the ambient temperature and humidity at the hive location, and the
 temperature and humidity within the hive. The readings are capture every minute and sent to “The Cloud” via a wifi connection
@@ -17,34 +17,35 @@ My hope is to be able to gather data from my honey bee hives and use it as a too
 of the honey bee colony. It doesn’t replace going in periodically and physically inspecting the hives, but used as a tool it
 can help to gain an extra set of eyes to see what’s going on inside without physical disturbing the colony.
 
-### How do I think I can use the data?
+## How do I think I can use the data?
 
-Weight
+### Weight
 - Nectar Flow Indication and intensity.
 - Winter Store Levels
 - Foragers out and returning
 - Swarming (Send Email / text alert / app notification)
 - Robbing (Send Notification)
 
-Hive Temperature
+### Hive Temperature
 - Health of the colony
 - Brood
 
-Hive Humidity
+### Hive Humidity
 - Indication of nectar 
 - Indication of uncapped brood
 - Indication of condensation issues (Winter)
 
-Other Sensors
+### Other Sensors
 - Microphone (Noise Levels / Sound Analysis)
 - Temperature Sensor / per box
 - Lux Sensor (measure sunlight intensity)
 - Camera / Video
 - Motion Detection
 
-You can use the [editor on GitHub](https://github.com/Chris-Conklin-61/Chris-Conklin-61.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## The Hardware
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Hive Monitor system uses a Raspberry Pi with DHT22 Temperature/Humidty Sensors, and 4 50kg load cells to measure the weight of the hive.
+
 
 ### Markdown
 
