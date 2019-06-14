@@ -48,7 +48,24 @@ can help to gain an extra set of eyes to see what’s going on inside without ph
 
 ## The Hardware
 
-The Hive Monitor system uses a Raspberry Pi with DHT22 Temperature/Humidty Sensors, and 4 50kg load cells to measure the weight of the hive.
+- Raspberry Pi 3+B Micro Computer
+- Waterproof Box
+- Waterproof Cable Connectors
+- 12V-5V DC-DC Converter
+- Sensors
+  - DHT22 Temperature/Humidity (2)
+  - HX711 Load Cell A/D Module (4)
+  - 1NA219 DC Voltage/Current Sensor
+- Scale
+  - 50 kg Load Cell (4)
+  - Table Leveling Feet (4)
+  - 48”x2”x2” Angle Steel (3/16”)
+  - 48”x2”x2” Flat Aluminum 3/16”)
+- Miscellaneous
+  - Project Boards (2)
+  - Screw Terminals
+  - screws
+  - Wire
 
 
 ### Markdown
