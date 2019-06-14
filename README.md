@@ -44,6 +44,8 @@ can help to gain an extra set of eyes to see what’s going on inside without ph
 - Camera / Video
 - Motion Detection
 
+![Hive Monitor Blynk Data Visulation 2](/images/HM_Blynk_2.PNG)
+
 ## The Hardware
 
 The Hive Monitor system uses a Raspberry Pi with DHT22 Temperature/Humidty Sensors, and 4 50kg load cells to measure the weight of the hive.
