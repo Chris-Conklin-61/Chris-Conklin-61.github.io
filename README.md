@@ -11,7 +11,7 @@ temperature and humidity within the hive. The readings are capture every minute 
 for display and analysis. Recently added to the system is a wifi camera. The complete Hive Monitoring system is also solar
 powered so the battery health and solar production is also monitored.
 
-![Hive Monitor Blynk Data Visulation](https://chris-conklin-61.github.com/HM_Blynk_1.PNG)
+![Hive Monitor Blynk Data Visulation](https://Chris-Conklin-61.github.com/HM_Blynk_1.PNG)
 
 ## What Are my Expectations ?
 
