@@ -67,31 +67,16 @@ can help to gain an extra set of eyes to see what’s going on inside without ph
   - screws
   - Wire
   
+### Parts Diagram
+
+Some parts are not available in Fritzing (Solar Panel, Solar Controller, Lead Acid Battey, and DC-DC Converter) but will be included with a later update. 
+  
 ![Hive Monitor Fritizng Diagram](/images/Hive_Monitor_bb.jpg)
 
+### Schematic
+Solar power system is not included in the schematic
+
 ![Hive Monitor Schematic](/images/Hive_Monitor_schem.jpg)
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
