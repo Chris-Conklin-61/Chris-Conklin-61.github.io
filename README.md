@@ -67,7 +67,7 @@ can help to gain an extra set of eyes to see what’s going on inside without ph
   - screws
   - Wire
   
-![Hive Monitor Fritizng Diagram](/images/Hive Monitor_bb.jpg)
+![Hive Monitor Fritizng Diagram](/images/Hive_Monitor_bb.jpg)
 
 ![Hive Monitor Schematic](/images/Hive_Monitor_schem.jpg)
 
