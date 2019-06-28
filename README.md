@@ -66,7 +66,10 @@ can help to gain an extra set of eyes to see what’s going on inside without ph
   - Screw Terminals
   - screws
   - Wire
+  
+![Hive Monitor Fritizng Diagram](/images/Hive Monitor_bb.jpg)
 
+![Hive Monitor Schematic](/images/Hive Monitor_schem.jpg)
 
 ### Markdown
 
